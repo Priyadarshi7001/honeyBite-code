@@ -1,0 +1,12 @@
+.main-page {
+    display: flex;
+    justify-content: space-between;
+}
+
+.homemenu{
+    flex: 1;
+}
+
+.inputfields{
+    flex:3;
+}
